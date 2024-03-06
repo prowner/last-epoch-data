@@ -160,5 +160,15 @@ const trees: Trees = {
         value: 75,
       },
     ],
+    15: [
+      //TODO: not mapped -> Extra Arrows
+      {
+        property: Property.MANA_COST,
+        modifierType: ModifierType.ADDED,
+        specialTags: 0,
+        tags: Tags.NONE,
+        value: 4,
+      },
+    ],
   },
 };
