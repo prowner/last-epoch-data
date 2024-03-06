@@ -70,31 +70,49 @@ const trees: Trees = {
 
 - update the progress below when commiting
 
+### Stat Structure
+
+```
+{
+    property: Property;
+    modifierType: ModifierType;
+    specialTags: Ailment | number;
+    tags: Tags;
+    value: number;
+}
+```
+
+- **property**: search for the matching property in `/types/Property.ts`
+- **modifierType**: can be ADDED, INCREASED, or MORE. Look at the node description if not immediatly clear from the stat
+- **modifierType**: search for the matching tags in `/types/Tags.ts` and add them together. For example, Fire Melee Damage, would be Tags.FIRE + Tags.MELEE. Some tags can be missing, if this is the case, place a comment.
+- **specialTags**: this is used in special cases. For example, for Property.AILMENT, the specialTags define which Ailment it applies for.
+- **value**: if it's noted as a percentage, change to decimal notation. For example, +20% -> 0.2. This usually applies to INCREASED or MORE modifiers, but can also be the case for ADDED (Resistances fe).
+
 ## Progress
 
 ### Primalist
 
 - [ ] Passive Tree (pr-1)
 - [ ] Summon Wolf Tree (wo42)
-- ...
+- [ ] ...
 
 ### Mage
 
 - [ ] Passive Tree (mg-1)
-- ...
+- [ ] ...
 
 ### Sentinel
 
 - [ ] Passive Tree (kn-1)
-- ...
+- [ ] ...
 
 ### Acolyte
 
 - [ ] Passive Tree (ac-1)
-- ...
+- [ ] ...
 
 ### Rogue
 
 - [ ] Passive Tree (rg-1)
 - [ ] Multishot Tree (mush9) ![54%](https://progress-bar.dev/54)
-- ...
+- [ ] ...
