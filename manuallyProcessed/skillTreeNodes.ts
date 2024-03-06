@@ -184,7 +184,7 @@ const trees: Trees = {
         modifierType: ModifierType.MORE,
         specialTags: 0,
         tags: Tags.NONE,
-        value: 35,
+        value: 0.35,
       },
       //TODO: not mapped -> Cone Width
       //TODO: not mapped -> Maximum Projectiles
@@ -195,7 +195,7 @@ const trees: Trees = {
         modifierType: ModifierType.ADDED,
         specialTags: Ailment.POISON,
         tags: Tags.NONE,
-        value: 50,
+        value: 0.5,
       },
       //TODO: not mapped -> Cannot Slow
     ],
@@ -208,7 +208,7 @@ const trees: Trees = {
         modifierType: ModifierType.ADDED,
         specialTags: Ailment.SLOW,
         tags: Tags.NONE,
-        value: 10,
+        value: 0.1,
       },
       //TODO: not mapped -> Cannot Slow
     ],
@@ -218,7 +218,7 @@ const trees: Trees = {
         modifierType: ModifierType.MORE,
         specialTags: 0,
         tags: Tags.SLOWED_ENEMY,
-        value: 20,
+        value: 0.2,
       },
     ],
   },
