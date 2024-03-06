@@ -31,21 +31,29 @@ type Trees = {
 
 const trees: Trees = {
   mush9: {
-    1: [],
+    1: [
+      {
+        property: Property.MANA_COST,
+        modifierType: ModifierType.INCREASED,
+        specialTags: 0,
+        tags: Tags.NONE,
+        value: -0.1,
+      },
+    ],
     2: [
       {
         property: Property.DAMAGE,
         modifierType: ModifierType.MORE,
         specialTags: 0,
         tags: Tags.NONE,
-        value: 55,
+        value: 0.55,
       },
       {
         property: Property.ATTACK_SPEED,
         modifierType: ModifierType.MORE,
         specialTags: 0,
         tags: Tags.NONE,
-        value: -30,
+        value: -0.3,
       },
     ],
     3: [
@@ -54,7 +62,7 @@ const trees: Trees = {
         modifierType: ModifierType.ADDED,
         specialTags: Ailment.SHRED_ARMOR,
         tags: Tags.NONE,
-        value: 25,
+        value: 0.25,
       },
     ],
     4: [
@@ -64,14 +72,14 @@ const trees: Trees = {
         modifierType: ModifierType.INCREASED,
         specialTags: 0,
         tags: Tags.NONE,
-        value: 100,
+        value: 1,
       },
       {
         property: Property.MANA_COST,
         modifierType: ModifierType.INCREASED,
         specialTags: 0,
         tags: Tags.NONE,
-        value: 100,
+        value: 1,
       },
     ],
     5: [
@@ -80,14 +88,14 @@ const trees: Trees = {
         modifierType: ModifierType.INCREASED,
         specialTags: 0,
         tags: Tags.NONE,
-        value: 5,
+        value: 0.05,
       },
       {
         property: Property.AILMENT_CHANCE,
         modifierType: ModifierType.INCREASED,
         specialTags: Ailment.HASTE,
         tags: Tags.NONE,
-        value: 5,
+        value: 0.05,
       },
     ],
     6: [
@@ -96,14 +104,14 @@ const trees: Trees = {
         modifierType: ModifierType.MORE,
         specialTags: 0,
         tags: Tags.CLOSE_ENEMY,
-        value: 25,
+        value: 0.25,
       },
       {
         property: Property.DAMAGE,
         modifierType: ModifierType.MORE,
         specialTags: 0,
         tags: Tags.FAR_ENEMY,
-        value: -25,
+        value: -0.25,
       },
     ],
     7: [
@@ -118,7 +126,7 @@ const trees: Trees = {
         modifierType: ModifierType.INCREASED,
         specialTags: 0,
         tags: Tags.NONE,
-        value: 5,
+        value: 0.05,
       },
     ],
     10: [
@@ -130,7 +138,7 @@ const trees: Trees = {
         modifierType: ModifierType.INCREASED,
         specialTags: 0,
         tags: Tags.NONE,
-        value: 15,
+        value: 0.15,
       },
     ],
     12: [
@@ -139,7 +147,7 @@ const trees: Trees = {
         modifierType: ModifierType.MORE,
         specialTags: 0,
         tags: Tags.NOT_MOVED_1S,
-        value: 10,
+        value: 0.1,
       },
     ],
     13: [
@@ -148,7 +156,7 @@ const trees: Trees = {
         modifierType: ModifierType.INCREASED,
         specialTags: Ailment.HASTE,
         tags: Tags.NONE,
-        value: 25,
+        value: 0.25,
       },
     ],
     14: [
@@ -157,7 +165,17 @@ const trees: Trees = {
         modifierType: ModifierType.INCREASED,
         specialTags: 0,
         tags: Tags.NONE,
-        value: 75,
+        value: 0.75,
+      },
+    ],
+    15: [
+      //TODO: not mapped -> Extra Arrows
+      {
+        property: Property.MANA_COST,
+        modifierType: ModifierType.ADDED,
+        specialTags: 0,
+        tags: Tags.NONE,
+        value: 4,
       },
     ],
   },
