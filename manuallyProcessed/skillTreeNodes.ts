@@ -170,5 +170,48 @@ const trees: Trees = {
         value: 4,
       },
     ],
+    16: [
+      {
+        property: Property.DAMAGE,
+        modifierType: ModifierType.MORE,
+        specialTags: 0,
+        tags: Tags.NONE,
+        value: 35,
+      },
+      //TODO: not mapped -> Cone Width
+      //TODO: not mapped -> Maximum Projectiles
+    ],
+    17: [
+      {
+        property: Property.AILMENT_CHANCE,
+        modifierType: ModifierType.ADDED,
+        specialTags: Ailment.POISON,
+        tags: Tags.NONE,
+        value: 50,
+      },
+      //TODO: not mapped -> Cannot Slow
+    ],
+    18: [
+      //TODO: not mapped -> Cone Width
+    ],
+    19: [
+      {
+        property: Property.AILMENT_CHANCE,
+        modifierType: ModifierType.ADDED,
+        specialTags: Ailment.SLOW,
+        tags: Tags.NONE,
+        value: 10,
+      },
+      //TODO: not mapped -> Cannot Slow
+    ],
+    20: [
+      {
+        property: Property.DAMAGE,
+        modifierType: ModifierType.MORE,
+        specialTags: 0,
+        tags: Tags.SLOWED_ENEMY,
+        value: 20,
+      },
+    ],
   },
 };

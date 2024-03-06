@@ -17,4 +17,5 @@ export enum Tags {
   CLOSE_ENEMY = 268435456, // made up tag, does not exist on affix properties
   FAR_ENEMY = 536870912, // made up tag, does not exist on affix properties
   NOT_MOVED_1S = 1073741824, // made up tag, does not exist on affix properties
+  SLOWED_ENEMY = 2147483648, // made up tag, does not exist on affix properties
 }
