@@ -1,0 +1,16 @@
+{
+ "printWidth": 120,
+ "singleQuote": true,
+ "trailingComma": "all",
+ "bracketSpacing": true,
+ "useTabs": false,
+ "tabWidth": 2,
+ "arrowParens": "always",
+ "importOrderSeparation": true,
+ "importOrderSortSpecifiers": true,
+ "importOrderParserPlugins": ["typescript", "decorators-legacy"],
+ "singleAttributePerLine": true,
+ "endOfLine": "auto",
+ "bracketSameLine": true,
+ "jsxBracketSameLine": true
+}
