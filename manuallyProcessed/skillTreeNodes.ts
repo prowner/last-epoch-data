@@ -5,7 +5,7 @@ import { Tags } from '../types/Tags';
 
 type OtherStat = {
   value: number;
-  property: Exclude<Property, Property.AilmentChance>;
+  property: Exclude<Property, Property.AilmentChance | Property.IncreasedAilmentDuration>;
   tags: Tags;
   specialTags: number;
   modifierType: ModifierType;
@@ -13,7 +13,7 @@ type OtherStat = {
 
 type AilmentStat = {
   value: number;
-  property: Property.AilmentChance;
+  property: Property.AilmentChance | Property.IncreasedAilmentDuration;
   tags: Tags;
   specialTags: Ailment;
   modifierType: ModifierType;
@@ -219,6 +219,44 @@ const trees: Trees = {
         specialTags: 0,
         tags: Tags.SLOWED_ENEMY,
         value: 0.2,
+      },
+    ],
+    21: [
+      //TODO: not mapped -> Slow Duration Per Dexterity
+      //TODO: incorporate "per attribute"
+      {
+        property: Property.IncreasedAilmentDuration,
+        modifierType: ModifierType.INCREASED,
+        specialTags: Ailment.BLEED,
+        tags: Tags.NONE,
+        value: 0.02,
+      },
+    ],
+    22: [
+      //TODO: not mapped -> Slow And Chill Duration Reset Chance
+    ],
+    23: [
+      //TODO: not mapped -> Knockback Chance
+    ],
+    24: [
+      //TODO: not mapped -> Free When Out-Of-Mana
+      //TODO: not mapped -> Maximum Projectiles
+    ],
+    26: [
+      //TODO: not mapped -> Projectiles Can Hit The Same Target
+      {
+        property: Property.IncreasedStunChance,
+        modifierType: ModifierType.INCREASED,
+        specialTags: 0,
+        tags: Tags.NONE,
+        value: 8,
+      },
+      {
+        property: Property.Damage,
+        modifierType: ModifierType.INCREASED,
+        specialTags: 0,
+        tags: Tags.NONE,
+        value: -0.8,
       },
     ],
   },
