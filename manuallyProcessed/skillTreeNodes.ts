@@ -5,7 +5,7 @@ import { Tags } from '../types/Tags';
 
 type OtherStat = {
   value: number;
-  property: Exclude<Property, Property.AILMENT_CHANCE>;
+  property: Exclude<Property, Property.AilmentChance>;
   tags: Tags;
   specialTags: number;
   modifierType: ModifierType;
@@ -13,7 +13,7 @@ type OtherStat = {
 
 type AilmentStat = {
   value: number;
-  property: Property.AILMENT_CHANCE;
+  property: Property.AilmentChance;
   tags: Tags;
   specialTags: Ailment;
   modifierType: ModifierType;
@@ -33,7 +33,7 @@ const trees: Trees = {
   mush9: {
     1: [
       {
-        property: Property.MANA_COST,
+        property: Property.ManaCost,
         modifierType: ModifierType.INCREASED,
         specialTags: 0,
         tags: Tags.NONE,
@@ -42,14 +42,14 @@ const trees: Trees = {
     ],
     2: [
       {
-        property: Property.DAMAGE,
+        property: Property.Damage,
         modifierType: ModifierType.MORE,
         specialTags: 0,
         tags: Tags.NONE,
         value: 0.55,
       },
       {
-        property: Property.ATTACK_SPEED,
+        property: Property.AttackSpeed,
         modifierType: ModifierType.MORE,
         specialTags: 0,
         tags: Tags.NONE,
@@ -58,9 +58,9 @@ const trees: Trees = {
     ],
     3: [
       {
-        property: Property.AILMENT_CHANCE,
+        property: Property.AilmentChance,
         modifierType: ModifierType.ADDED,
-        specialTags: Ailment.SHRED_ARMOR,
+        specialTags: Ailment.ARMOURSHRED,
         tags: Tags.NONE,
         value: 0.25,
       },
@@ -68,14 +68,14 @@ const trees: Trees = {
     4: [
       //TODO: not mapped -> Autofire Chance On Bow Attack
       {
-        property: Property.STUN_CHANCE,
+        property: Property.IncreasedStunChance,
         modifierType: ModifierType.INCREASED,
         specialTags: 0,
         tags: Tags.NONE,
         value: 1,
       },
       {
-        property: Property.MANA_COST,
+        property: Property.ManaCost,
         modifierType: ModifierType.INCREASED,
         specialTags: 0,
         tags: Tags.NONE,
@@ -84,14 +84,14 @@ const trees: Trees = {
     ],
     5: [
       {
-        property: Property.ATTACK_SPEED,
+        property: Property.AttackSpeed,
         modifierType: ModifierType.INCREASED,
         specialTags: 0,
         tags: Tags.NONE,
         value: 0.05,
       },
       {
-        property: Property.AILMENT_CHANCE,
+        property: Property.AilmentChance,
         modifierType: ModifierType.INCREASED,
         specialTags: Ailment.HASTE,
         tags: Tags.NONE,
@@ -100,14 +100,14 @@ const trees: Trees = {
     ],
     6: [
       {
-        property: Property.DAMAGE,
+        property: Property.Damage,
         modifierType: ModifierType.MORE,
         specialTags: 0,
         tags: Tags.CLOSE_ENEMY,
         value: 0.25,
       },
       {
-        property: Property.DAMAGE,
+        property: Property.Damage,
         modifierType: ModifierType.MORE,
         specialTags: 0,
         tags: Tags.FAR_ENEMY,
@@ -122,7 +122,7 @@ const trees: Trees = {
     ],
     9: [
       {
-        property: Property.ATTACK_SPEED,
+        property: Property.AttackSpeed,
         modifierType: ModifierType.INCREASED,
         specialTags: 0,
         tags: Tags.NONE,
@@ -134,7 +134,7 @@ const trees: Trees = {
     ],
     11: [
       {
-        property: Property.CRIT_MULTIPLIER,
+        property: Property.CriticalMultiplier,
         modifierType: ModifierType.INCREASED,
         specialTags: 0,
         tags: Tags.NONE,
@@ -143,7 +143,7 @@ const trees: Trees = {
     ],
     12: [
       {
-        property: Property.DAMAGE,
+        property: Property.Damage,
         modifierType: ModifierType.MORE,
         specialTags: 0,
         tags: Tags.NOT_MOVED_1S,
@@ -152,7 +152,7 @@ const trees: Trees = {
     ],
     13: [
       {
-        property: Property.AILMENT_CHANCE,
+        property: Property.AilmentChance,
         modifierType: ModifierType.INCREASED,
         specialTags: Ailment.HASTE,
         tags: Tags.NONE,
@@ -161,7 +161,7 @@ const trees: Trees = {
     ],
     14: [
       {
-        property: Property.CRIT_CHANCE,
+        property: Property.CriticalChance,
         modifierType: ModifierType.INCREASED,
         specialTags: 0,
         tags: Tags.NONE,
@@ -171,11 +171,54 @@ const trees: Trees = {
     15: [
       //TODO: not mapped -> Extra Arrows
       {
-        property: Property.MANA_COST,
+        property: Property.ManaCost,
         modifierType: ModifierType.ADDED,
         specialTags: 0,
         tags: Tags.NONE,
         value: 4,
+      },
+    ],
+    16: [
+      {
+        property: Property.Damage,
+        modifierType: ModifierType.MORE,
+        specialTags: 0,
+        tags: Tags.NONE,
+        value: 0.35,
+      },
+      //TODO: not mapped -> Cone Width
+      //TODO: not mapped -> Maximum Projectiles
+    ],
+    17: [
+      {
+        property: Property.AilmentChance,
+        modifierType: ModifierType.ADDED,
+        specialTags: Ailment.POISON,
+        tags: Tags.NONE,
+        value: 0.5,
+      },
+      //TODO: not mapped -> Cannot Slow
+    ],
+    18: [
+      //TODO: not mapped -> Cone Width
+    ],
+    19: [
+      {
+        property: Property.AilmentChance,
+        modifierType: ModifierType.ADDED,
+        specialTags: Ailment.SLOW,
+        tags: Tags.NONE,
+        value: 0.1,
+      },
+      //TODO: not mapped -> Cannot Slow
+    ],
+    20: [
+      {
+        property: Property.Damage,
+        modifierType: ModifierType.MORE,
+        specialTags: 0,
+        tags: Tags.SLOWED_ENEMY,
+        value: 0.2,
       },
     ],
   },
