@@ -3944,7 +3944,7 @@ const trees: Trees = {
       tags: TAGS.NONE,
       value: 0.25,
     },    {
-      property: Property.ReducedBonusDamageTakenFromCrits,,
+      property: Property.ReducedBonusDamageTakenFromCrits,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
