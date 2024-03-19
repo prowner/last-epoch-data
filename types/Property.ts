@@ -1,4 +1,5 @@
 export enum Property {
+  TODO = -1,
   Damage = 0,
   AilmentChance = 1,
   AttackSpeed = 2,
