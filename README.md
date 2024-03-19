@@ -114,5 +114,5 @@ const trees: Trees = {
 ### Rogue
 
 - [ ] Passive Tree (rg-1)
-- [ ] Multishot Tree (mush9) ![54%](https://progress-bar.dev/54)
+- [ ] Multishot Tree (mush9) ![100%](https://progress-bar.dev/100)
 - [ ] ...
