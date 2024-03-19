@@ -277,7 +277,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 20x,
+      value: 20,
     },
   ],
   11: [
@@ -286,13 +286,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -313,7 +313,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -343,7 +343,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -358,7 +358,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -396,7 +396,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -465,7 +465,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -513,7 +513,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -699,7 +699,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   32: [
@@ -750,7 +750,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   16: [
@@ -807,7 +807,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -1114,7 +1114,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -1123,7 +1123,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -1213,7 +1213,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -1252,7 +1252,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   4: [
@@ -1278,7 +1278,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   4: [
@@ -1341,7 +1341,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -1350,7 +1350,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -1419,7 +1419,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -1473,7 +1473,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.HealthGain,
       modifierType: ModifierType.TODO,
@@ -1640,7 +1640,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -1730,7 +1730,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -1760,7 +1760,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -1808,7 +1808,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -1856,7 +1856,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Armour,
       modifierType: ModifierType.TODO,
@@ -1913,7 +1913,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -1922,7 +1922,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.CastSpeed,
       modifierType: ModifierType.TODO,
@@ -1934,7 +1934,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -2002,7 +2002,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -2101,7 +2101,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -2137,7 +2137,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -2146,7 +2146,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -2161,7 +2161,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -2173,7 +2173,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -2182,7 +2182,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.CastSpeed,
       modifierType: ModifierType.TODO,
@@ -2197,7 +2197,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -2265,7 +2265,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -2283,7 +2283,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 34#,
+      value: 34,
     },
   ],
   13: [
@@ -2418,7 +2418,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -2433,7 +2433,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaGain,
       modifierType: ModifierType.TODO,
@@ -2448,7 +2448,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -2484,7 +2484,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -2588,7 +2588,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -2654,7 +2654,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -2663,7 +2663,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -2681,7 +2681,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -2705,13 +2705,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -2720,7 +2720,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -2747,7 +2747,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -2827,7 +2827,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -3040,7 +3040,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -3055,7 +3055,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -3174,7 +3174,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -3240,7 +3240,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -3255,7 +3255,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   30: [
@@ -3297,7 +3297,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -3318,13 +3318,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -3339,7 +3339,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaDrain,
       modifierType: ModifierType.TODO,
@@ -3381,7 +3381,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -3396,13 +3396,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -3712,7 +3712,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -3721,7 +3721,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -3730,13 +3730,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.CriticalMultiplier,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -3781,7 +3781,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   30: [
@@ -3790,19 +3790,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -3966,7 +3966,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -3975,7 +3975,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -3996,7 +3996,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -4020,7 +4020,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.CastSpeed,
       modifierType: ModifierType.TODO,
@@ -4095,7 +4095,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -4337,7 +4337,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -4358,7 +4358,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -4373,7 +4373,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.FreezeRateMultiplier,
       modifierType: ModifierType.TODO,
@@ -4394,7 +4394,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.CastSpeed,
       modifierType: ModifierType.TODO,
@@ -4421,7 +4421,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.CastSpeed,
       modifierType: ModifierType.TODO,
@@ -4651,7 +4651,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -4702,7 +4702,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -4723,7 +4723,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -4845,7 +4845,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -4890,7 +4890,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -4926,7 +4926,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -4941,7 +4941,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -4959,7 +4959,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -4995,7 +4995,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -5010,7 +5010,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -5097,7 +5097,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -5133,13 +5133,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -5187,7 +5187,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -5199,7 +5199,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -5229,13 +5229,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -5255,7 +5255,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   4: [
@@ -5264,7 +5264,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   5: [
@@ -5279,13 +5279,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -5300,7 +5300,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -5309,13 +5309,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -5330,7 +5330,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -5339,7 +5339,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -5357,7 +5357,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -5384,7 +5384,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -5393,7 +5393,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -5435,7 +5435,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -5450,7 +5450,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -5459,7 +5459,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -5498,7 +5498,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -5510,7 +5510,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -5525,7 +5525,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -5549,7 +5549,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -5621,7 +5621,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -5728,7 +5728,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -5788,7 +5788,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 34#,
+      value: 34,
     },
   ],
   19: [
@@ -5899,7 +5899,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -5908,7 +5908,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -5923,7 +5923,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   16: [
@@ -5932,7 +5932,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -5947,7 +5947,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -6102,7 +6102,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -6138,7 +6138,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -6153,7 +6153,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -6177,7 +6177,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -6192,7 +6192,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -6201,13 +6201,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -6255,7 +6255,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   29: [
@@ -6281,7 +6281,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   4: [
@@ -6290,7 +6290,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -6302,7 +6302,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   5: [
@@ -6344,13 +6344,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -6467,13 +6467,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -6554,7 +6554,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -6590,7 +6590,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   30: [
@@ -6608,7 +6608,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -6623,7 +6623,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -6808,7 +6808,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -6817,7 +6817,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -6832,7 +6832,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -6847,7 +6847,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -6876,7 +6876,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -6906,7 +6906,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -6942,7 +6942,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -6972,7 +6972,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -7062,7 +7062,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -7077,7 +7077,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -7098,7 +7098,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -7107,7 +7107,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -7235,7 +7235,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -7295,7 +7295,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.HealthGain,
       modifierType: ModifierType.TODO,
@@ -7337,7 +7337,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -7400,7 +7400,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -7439,7 +7439,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -7463,13 +7463,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -7484,13 +7484,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -7505,7 +7505,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -7681,13 +7681,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -7705,7 +7705,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -7714,7 +7714,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   2: [
@@ -7729,7 +7729,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   4: [
@@ -7756,7 +7756,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -7768,7 +7768,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -7795,7 +7795,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -7914,7 +7914,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   17: [
@@ -7995,7 +7995,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 34#,
+      value: 34,
     },
   ],
   20: [
@@ -8067,7 +8067,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -8091,7 +8091,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -8177,7 +8177,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -8192,13 +8192,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -8387,7 +8387,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -8411,7 +8411,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -8420,7 +8420,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -8464,7 +8464,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -8497,7 +8497,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -8515,7 +8515,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -8530,7 +8530,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -8548,7 +8548,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -8587,13 +8587,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   17: [
@@ -8611,7 +8611,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -8659,7 +8659,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -8668,7 +8668,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.HealthGain,
       modifierType: ModifierType.TODO,
@@ -8680,7 +8680,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -8689,7 +8689,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.IncreasedHealing,
       modifierType: ModifierType.TODO,
@@ -8710,7 +8710,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -8719,7 +8719,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -8749,7 +8749,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -8883,7 +8883,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -8892,7 +8892,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   16: [
@@ -8922,7 +8922,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.FreezeRateMultiplier,
       modifierType: ModifierType.TODO,
@@ -8937,7 +8937,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -8961,7 +8961,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -9030,7 +9030,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -9051,7 +9051,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   3: [
@@ -9060,7 +9060,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -9069,7 +9069,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -9105,7 +9105,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -9141,7 +9141,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -9176,7 +9176,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -9293,7 +9293,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -9344,7 +9344,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   2: [
@@ -9383,7 +9383,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   29: [
@@ -9392,13 +9392,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   30: [
@@ -9407,7 +9407,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   32: [
@@ -9422,7 +9422,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -9431,7 +9431,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -9655,7 +9655,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -9727,7 +9727,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -9915,7 +9915,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -10053,7 +10053,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   4: [
@@ -10062,13 +10062,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -10083,7 +10083,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -10110,7 +10110,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -10125,7 +10125,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -10136,7 +10136,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -10163,7 +10163,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   4: [
@@ -10301,7 +10301,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -10457,7 +10457,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -10472,7 +10472,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -10753,7 +10753,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -10762,7 +10762,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -10780,7 +10780,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -10810,7 +10810,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -11193,13 +11193,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -11258,7 +11258,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -11267,7 +11267,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   2: [
@@ -11303,7 +11303,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -11330,13 +11330,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -11438,13 +11438,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   29: [
@@ -11453,25 +11453,25 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   30: [
@@ -11480,7 +11480,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   31: [
@@ -11489,7 +11489,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   32: [
@@ -11752,7 +11752,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -11860,13 +11860,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -11884,7 +11884,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -11893,7 +11893,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -12111,7 +12111,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -12132,7 +12132,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -12165,7 +12165,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -12198,7 +12198,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -12210,7 +12210,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -12219,7 +12219,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -12234,13 +12234,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -12255,7 +12255,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -12264,7 +12264,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   29: [
@@ -12273,7 +12273,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -12539,7 +12539,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   3: [
@@ -12581,7 +12581,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -12590,19 +12590,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -12611,19 +12611,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -12632,13 +12632,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -12647,7 +12647,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -12901,7 +12901,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -12922,13 +12922,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -12943,7 +12943,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -12958,13 +12958,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -13194,7 +13194,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -13203,7 +13203,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -13212,7 +13212,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -13233,7 +13233,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -13242,7 +13242,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -13266,7 +13266,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -13325,7 +13325,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -13520,7 +13520,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -13574,7 +13574,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -13583,7 +13583,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -13601,19 +13601,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -13696,7 +13696,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -13828,7 +13828,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -13894,13 +13894,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -13918,7 +13918,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -14061,7 +14061,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -14070,7 +14070,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -14079,7 +14079,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -14237,7 +14237,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -14246,7 +14246,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -14264,7 +14264,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   2: [
@@ -14273,7 +14273,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   3: [
@@ -14291,7 +14291,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -14306,7 +14306,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -14321,7 +14321,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -14336,7 +14336,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -14515,7 +14515,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -14533,7 +14533,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.CastSpeed,
       modifierType: ModifierType.TODO,
@@ -14593,7 +14593,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -14814,7 +14814,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -14829,7 +14829,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -15062,7 +15062,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -15083,7 +15083,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   17: [
@@ -15122,7 +15122,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -15376,7 +15376,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -15391,7 +15391,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -15415,7 +15415,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -15430,13 +15430,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -15445,13 +15445,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -15501,7 +15501,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Armour,
       modifierType: ModifierType.TODO,
@@ -15555,7 +15555,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -15741,7 +15741,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -15756,7 +15756,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -15765,13 +15765,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -15786,7 +15786,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -15795,7 +15795,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   16: [
@@ -15804,7 +15804,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   17: [
@@ -15822,7 +15822,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -15831,7 +15831,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   4: [
@@ -15926,7 +15926,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -16052,7 +16052,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 34#,
+      value: 34,
     },
   ],
   30: [
@@ -16106,7 +16106,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -16121,7 +16121,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -16136,7 +16136,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   17: [
@@ -16154,7 +16154,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -16178,7 +16178,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -16195,7 +16195,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -16351,7 +16351,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -16378,7 +16378,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   2: [
@@ -16408,7 +16408,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -16426,7 +16426,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -16435,13 +16435,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -16450,7 +16450,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -16489,7 +16489,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   29: [
@@ -16590,7 +16590,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 34#,
+      value: 34,
     },
   ],
   19: [
@@ -16659,7 +16659,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   2: [
@@ -16668,7 +16668,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   3: [
@@ -16677,7 +16677,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -16692,7 +16692,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -16713,7 +16713,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -16722,13 +16722,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.IncreasedStunChance,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -16746,7 +16746,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -16755,13 +16755,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.FreezeRateMultiplier,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -16955,7 +16955,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -17018,7 +17018,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -17090,19 +17090,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -17132,7 +17132,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -17141,7 +17141,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -17159,7 +17159,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   32: [
@@ -17168,7 +17168,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -17221,7 +17221,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -17251,7 +17251,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -17335,13 +17335,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.CriticalMultiplier,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -17359,7 +17359,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -17440,7 +17440,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -17485,7 +17485,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -17494,7 +17494,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -17503,7 +17503,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -17542,7 +17542,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Armour,
       modifierType: ModifierType.TODO,
@@ -17664,13 +17664,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -17733,7 +17733,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -17823,13 +17823,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -17838,7 +17838,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -17847,13 +17847,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   31: [
@@ -17862,13 +17862,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   32: [
@@ -17877,7 +17877,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   33: [
@@ -17892,7 +17892,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   34: [
@@ -17901,7 +17901,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -17910,7 +17910,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Movespeed,
       modifierType: ModifierType.TODO,
@@ -17942,13 +17942,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   3: [
@@ -17957,19 +17957,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   5: [
@@ -17984,13 +17984,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -18038,7 +18038,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -18128,7 +18128,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -18143,7 +18143,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 34#,
+      value: 34,
     },
   ],
   21: [
@@ -18197,13 +18197,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -18212,13 +18212,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -18236,13 +18236,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -18251,7 +18251,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -18278,7 +18278,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -18302,7 +18302,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -18314,7 +18314,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -18454,7 +18454,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -18538,7 +18538,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -18547,7 +18547,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -18565,7 +18565,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   16: [
@@ -18595,7 +18595,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -18604,7 +18604,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -18672,7 +18672,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -18783,7 +18783,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -18858,7 +18858,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.AttackSpeed,
       modifierType: ModifierType.TODO,
@@ -18870,13 +18870,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.CriticalChance,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -18885,7 +18885,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.CriticalMultiplier,
       modifierType: ModifierType.TODO,
@@ -18906,7 +18906,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -18924,7 +18924,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -18951,7 +18951,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -18981,7 +18981,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -18996,7 +18996,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -19085,7 +19085,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -19226,25 +19226,25 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -19253,7 +19253,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -19274,7 +19274,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -19283,7 +19283,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -19292,7 +19292,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -19301,7 +19301,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -19492,7 +19492,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -19504,7 +19504,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   2: [
@@ -19513,13 +19513,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -19528,13 +19528,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.HealthGain,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -19570,7 +19570,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Armour,
       modifierType: ModifierType.TODO,
@@ -19624,7 +19624,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -19672,25 +19672,25 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   5: [
@@ -19794,7 +19794,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -19872,13 +19872,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -19908,7 +19908,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -19968,7 +19968,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.AttackSpeed,
       modifierType: ModifierType.TODO,
@@ -20004,7 +20004,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.AttackSpeed,
       modifierType: ModifierType.TODO,
@@ -20034,7 +20034,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.AttackSpeed,
       modifierType: ModifierType.TODO,
@@ -20151,7 +20151,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   34: [
@@ -20175,7 +20175,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -20270,7 +20270,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -20303,13 +20303,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -20318,7 +20318,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 34#,
+      value: 34,
     },
   ],
   16: [
@@ -20351,7 +20351,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -20429,7 +20429,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -20438,7 +20438,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -20447,7 +20447,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -20465,7 +20465,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -20474,13 +20474,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Health,
       modifierType: ModifierType.TODO,
@@ -20539,7 +20539,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   5: [
@@ -20569,7 +20569,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Health,
       modifierType: ModifierType.TODO,
@@ -20731,7 +20731,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -20740,7 +20740,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -20749,7 +20749,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -20779,13 +20779,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -20800,7 +20800,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -20824,7 +20824,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -20917,7 +20917,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -20962,13 +20962,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -20983,19 +20983,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -21004,7 +21004,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -21162,7 +21162,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   17: [
@@ -21219,7 +21219,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -21270,7 +21270,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -21303,7 +21303,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -21312,7 +21312,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -21342,7 +21342,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -21401,7 +21401,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -21539,7 +21539,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -21554,7 +21554,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -21575,7 +21575,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -21584,19 +21584,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -21617,7 +21617,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   16: [
@@ -21632,7 +21632,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -21647,7 +21647,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -21737,7 +21737,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -21940,7 +21940,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -21955,7 +21955,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -21964,7 +21964,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -21973,7 +21973,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -21997,7 +21997,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -22006,7 +22006,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -22015,7 +22015,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -22024,7 +22024,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -22044,7 +22044,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   5: [
@@ -22062,7 +22062,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -22107,7 +22107,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -22194,7 +22194,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -22227,7 +22227,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -22245,13 +22245,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -22266,7 +22266,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -22284,7 +22284,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -22293,7 +22293,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -22302,7 +22302,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -22314,13 +22314,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -22457,7 +22457,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -22475,7 +22475,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -22484,7 +22484,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -22502,7 +22502,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   5: [
@@ -22520,7 +22520,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -22571,13 +22571,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -22589,7 +22589,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -22598,7 +22598,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -22708,7 +22708,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -22717,7 +22717,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -22834,7 +22834,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -22849,7 +22849,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -22858,7 +22858,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaDrain,
       modifierType: ModifierType.TODO,
@@ -22885,7 +22885,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -22894,7 +22894,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -22903,7 +22903,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaGain,
       modifierType: ModifierType.TODO,
@@ -22930,7 +22930,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -22951,7 +22951,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   30: [
@@ -23082,7 +23082,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -23166,7 +23166,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -23193,7 +23193,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -23202,7 +23202,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -23211,7 +23211,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -23220,7 +23220,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -23261,7 +23261,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -23345,7 +23345,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -23432,7 +23432,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -23474,7 +23474,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -23483,7 +23483,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -23596,7 +23596,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -23710,7 +23710,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -23752,7 +23752,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -23785,7 +23785,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   17: [
@@ -23794,13 +23794,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -23809,13 +23809,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   30: [
@@ -23824,7 +23824,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -23836,7 +23836,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -24021,7 +24021,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -24063,7 +24063,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   4: [
@@ -24072,7 +24072,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -24087,7 +24087,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -24108,7 +24108,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -24117,7 +24117,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -24126,7 +24126,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   31: [
@@ -24135,7 +24135,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -24162,7 +24162,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -24281,7 +24281,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -24347,13 +24347,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -24434,7 +24434,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -24443,7 +24443,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -24452,7 +24452,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -24461,7 +24461,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -24473,7 +24473,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -24482,7 +24482,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -24503,13 +24503,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -24518,7 +24518,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.AdaptiveSpellDamage,
       modifierType: ModifierType.TODO,
@@ -24682,7 +24682,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   17: [
@@ -24715,7 +24715,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -24775,13 +24775,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -24790,13 +24790,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.CastSpeed,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -24817,7 +24817,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -24876,7 +24876,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -24990,7 +24990,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -24999,7 +24999,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -25014,7 +25014,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   29: [
@@ -25023,7 +25023,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 34#,
+      value: 34,
     },
   ],
   30: [
@@ -25059,7 +25059,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -25074,7 +25074,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -25098,7 +25098,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -25107,7 +25107,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -25116,13 +25116,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -25280,7 +25280,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -25316,7 +25316,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -25340,7 +25340,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -25349,7 +25349,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -25358,7 +25358,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -25367,7 +25367,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -25376,7 +25376,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -25385,7 +25385,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -25406,7 +25406,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -25447,7 +25447,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -25462,7 +25462,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -25645,7 +25645,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -25654,7 +25654,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Mana,
       modifierType: ModifierType.TODO,
@@ -25669,7 +25669,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -25693,7 +25693,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   17: [
@@ -25702,7 +25702,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.IncreasedStunDuration,
       modifierType: ModifierType.TODO,
@@ -25723,7 +25723,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -25786,7 +25786,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -25795,7 +25795,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -25824,7 +25824,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -25854,7 +25854,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -25890,7 +25890,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -25938,7 +25938,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   16: [
@@ -25974,7 +25974,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -26019,7 +26019,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -26037,7 +26037,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -26061,7 +26061,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   30: [
@@ -26070,7 +26070,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   4: [
@@ -26079,7 +26079,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -26088,7 +26088,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   17: [
@@ -26097,7 +26097,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -26118,13 +26118,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -26345,7 +26345,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -26384,7 +26384,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -26396,7 +26396,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -26405,7 +26405,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -26438,7 +26438,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -26608,7 +26608,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -26677,7 +26677,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -26707,7 +26707,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.IncreasedStunChance,
       modifierType: ModifierType.TODO,
@@ -26764,7 +26764,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -27042,7 +27042,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   29: [
@@ -27093,7 +27093,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -27108,7 +27108,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -27123,7 +27123,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -27132,7 +27132,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -27153,7 +27153,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -27404,7 +27404,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -27413,7 +27413,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -27449,7 +27449,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -27467,7 +27467,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -27482,7 +27482,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -27500,7 +27500,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -27509,7 +27509,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -27526,7 +27526,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -27559,7 +27559,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -27592,7 +27592,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -27778,7 +27778,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -27802,7 +27802,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -27811,7 +27811,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -27909,7 +27909,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -27984,7 +27984,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 0.003,
+      value: 0.00300000011920929,
     },
   ],
   19: [
@@ -27993,7 +27993,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -28020,7 +28020,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -28035,7 +28035,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -28050,7 +28050,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -28107,7 +28107,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -28122,7 +28122,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -28131,7 +28131,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -28140,7 +28140,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   29: [
@@ -28149,13 +28149,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   30: [
@@ -28277,7 +28277,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -28307,7 +28307,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -28340,13 +28340,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -28397,7 +28397,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -28472,7 +28472,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -28487,13 +28487,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -28514,7 +28514,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -28547,7 +28547,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   16: [
@@ -28556,7 +28556,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -28577,7 +28577,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -28598,7 +28598,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   31: [
@@ -28607,7 +28607,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -28672,7 +28672,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -28750,7 +28750,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -28759,7 +28759,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -28768,7 +28768,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -28795,7 +28795,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -28918,7 +28918,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   16: [
@@ -28927,7 +28927,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -28936,7 +28936,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -28945,7 +28945,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -28974,13 +28974,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -29007,7 +29007,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -29022,7 +29022,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -29121,7 +29121,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -29208,13 +29208,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.BlockChance,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -29223,7 +29223,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -29238,7 +29238,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -29253,7 +29253,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.HealthRegen,
       modifierType: ModifierType.TODO,
@@ -29268,7 +29268,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -29277,7 +29277,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -29286,7 +29286,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   32: [
@@ -29295,7 +29295,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -29304,13 +29304,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -29363,13 +29363,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -29393,13 +29393,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -29417,7 +29417,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -29504,7 +29504,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -29519,7 +29519,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -29528,7 +29528,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -29555,7 +29555,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -29564,7 +29564,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -29573,7 +29573,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -29594,7 +29594,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -29609,7 +29609,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -29639,7 +29639,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   30: [
@@ -29657,7 +29657,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -29675,7 +29675,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   32: [
@@ -29684,7 +29684,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -29860,7 +29860,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -29884,7 +29884,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -29968,7 +29968,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -29992,7 +29992,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -30001,13 +30001,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -30031,7 +30031,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -30040,13 +30040,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -30183,7 +30183,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   17: [
@@ -30336,7 +30336,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -30351,7 +30351,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -30387,7 +30387,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   4: [
@@ -30548,7 +30548,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -30581,7 +30581,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -30677,7 +30677,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -30692,13 +30692,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -30713,7 +30713,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -30722,7 +30722,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -30751,13 +30751,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.BlockChance,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   5: [
@@ -30856,7 +30856,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -30874,7 +30874,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   16: [
@@ -30934,7 +30934,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -31021,7 +31021,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -31036,13 +31036,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -31075,7 +31075,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -31090,7 +31090,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -31102,7 +31102,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -31314,7 +31314,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -31329,13 +31329,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -31344,7 +31344,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -31383,13 +31383,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -31404,7 +31404,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -31535,7 +31535,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -31586,7 +31586,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -31634,7 +31634,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -31658,13 +31658,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.FreezeRateMultiplier,
       modifierType: ModifierType.TODO,
@@ -31679,7 +31679,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -31694,13 +31694,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   16: [
@@ -32068,7 +32068,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -32110,13 +32110,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -32214,7 +32214,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.AttackSpeed,
       modifierType: ModifierType.TODO,
@@ -32229,7 +32229,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -32241,7 +32241,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -32292,7 +32292,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -32358,7 +32358,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -32397,7 +32397,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -32418,7 +32418,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   17: [
@@ -32555,7 +32555,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 0.002,
+      value: 0.00200000002980232,
     },
   ],
   11: [
@@ -32630,7 +32630,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -32669,7 +32669,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -32693,7 +32693,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -32741,7 +32741,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -32780,7 +32780,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -32854,7 +32854,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -32896,13 +32896,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: -0.2,
+      value: -0.200000002980232,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 1.2,
+      value: 1.20000004768372,
     },
   ],
   19: [
@@ -33088,7 +33088,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   30: [
@@ -33118,13 +33118,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -33327,7 +33327,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -33366,13 +33366,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   5: [
@@ -33381,13 +33381,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -33423,7 +33423,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -33432,13 +33432,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.FreezeRateMultiplier,
       modifierType: ModifierType.TODO,
@@ -33468,7 +33468,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -33480,7 +33480,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -33519,7 +33519,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaGain,
       modifierType: ModifierType.TODO,
@@ -33608,7 +33608,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -33671,7 +33671,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -33689,7 +33689,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   29: [
@@ -33728,7 +33728,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   32: [
@@ -33767,7 +33767,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   5: [
@@ -33776,7 +33776,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -33830,13 +33830,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.DamageTaken,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -33845,7 +33845,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -33863,7 +33863,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -33872,7 +33872,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -33887,7 +33887,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.WardGain,
       modifierType: ModifierType.TODO,
@@ -33911,13 +33911,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -33964,7 +33964,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -34189,7 +34189,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   31: [
@@ -34207,7 +34207,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -34222,13 +34222,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -34252,7 +34252,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -34261,13 +34261,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -34282,7 +34282,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaGain,
       modifierType: ModifierType.TODO,
@@ -34309,13 +34309,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -34380,7 +34380,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -34470,7 +34470,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -34479,7 +34479,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -34500,7 +34500,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -34539,7 +34539,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -34581,7 +34581,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   29: [
@@ -34596,7 +34596,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -34605,7 +34605,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -34629,7 +34629,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -34638,7 +34638,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -34874,7 +34874,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -34901,7 +34901,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   17: [
@@ -34922,7 +34922,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -34955,7 +34955,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 4m,
+      value: 4,
     },
   ],
   28: [
@@ -34997,7 +34997,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -35179,7 +35179,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -35236,7 +35236,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -35245,7 +35245,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   3: [
@@ -35275,7 +35275,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -35284,7 +35284,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -35299,7 +35299,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -35320,7 +35320,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -35329,7 +35329,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -35481,7 +35481,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -35511,7 +35511,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -35553,7 +35553,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   30: [
@@ -35586,7 +35586,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -35595,7 +35595,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -35613,13 +35613,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -35643,7 +35643,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -35658,13 +35658,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -35735,7 +35735,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -35774,7 +35774,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   16: [
@@ -35783,7 +35783,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   17: [
@@ -35816,7 +35816,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -35903,7 +35903,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   4: [
@@ -35921,25 +35921,25 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -35963,7 +35963,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -35972,7 +35972,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -35999,7 +35999,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -36008,7 +36008,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   33: [
@@ -36017,7 +36017,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -36032,7 +36032,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   29: [
@@ -36136,7 +36136,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -36145,7 +36145,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -36160,7 +36160,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -36226,7 +36226,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -36268,7 +36268,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -36307,7 +36307,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 0.004,
+      value: 0.00400000005960465,
     },
   ],
   22: [
@@ -36316,13 +36316,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -36331,7 +36331,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -36442,7 +36442,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -36555,13 +36555,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.FreezeRateMultiplier,
       modifierType: ModifierType.TODO,
@@ -36666,7 +36666,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -36729,7 +36729,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -36777,7 +36777,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -36786,7 +36786,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -36804,13 +36804,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -36849,13 +36849,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -36878,7 +36878,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   3: [
@@ -36887,13 +36887,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -36929,7 +36929,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -36983,7 +36983,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -37037,7 +37037,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -37052,7 +37052,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -37109,7 +37109,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -37244,7 +37244,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   32: [
@@ -37259,7 +37259,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -37315,7 +37315,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -37324,7 +37324,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -37399,7 +37399,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.AttackSpeed,
       modifierType: ModifierType.TODO,
@@ -37423,7 +37423,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -37495,7 +37495,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -37513,7 +37513,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -37546,13 +37546,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -37567,7 +37567,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -37588,7 +37588,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -37653,13 +37653,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -37689,7 +37689,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -37809,7 +37809,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -37869,7 +37869,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -37878,7 +37878,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -37902,7 +37902,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -37956,7 +37956,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.HealthGain,
       modifierType: ModifierType.TODO,
@@ -38123,7 +38123,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -38156,19 +38156,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -38186,13 +38186,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -38300,7 +38300,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -38309,7 +38309,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -38378,13 +38378,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   29: [
@@ -38408,13 +38408,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   31: [
@@ -38444,7 +38444,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -38459,7 +38459,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -38524,7 +38524,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -38557,7 +38557,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -38578,7 +38578,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -38599,7 +38599,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   5: [
@@ -38608,7 +38608,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -38620,13 +38620,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -38665,7 +38665,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -38743,7 +38743,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -38779,7 +38779,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   17: [
@@ -38803,7 +38803,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Armour,
       modifierType: ModifierType.TODO,
@@ -38824,7 +38824,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -38854,7 +38854,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -38875,7 +38875,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -38974,7 +38974,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.HealthGain,
       modifierType: ModifierType.TODO,
@@ -39000,7 +39000,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -39021,7 +39021,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   4: [
@@ -39045,7 +39045,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -39054,7 +39054,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -39069,7 +39069,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -39078,7 +39078,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -39102,19 +39102,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -39123,7 +39123,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 34#,
+      value: 34,
     },
   ],
   13: [
@@ -39132,7 +39132,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Mana,
       modifierType: ModifierType.TODO,
@@ -39213,7 +39213,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -39267,7 +39267,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -39291,7 +39291,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -39321,7 +39321,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.AttackSpeed,
       modifierType: ModifierType.TODO,
@@ -39342,13 +39342,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.AttackSpeed,
       modifierType: ModifierType.TODO,
@@ -39410,13 +39410,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   4: [
@@ -39425,13 +39425,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   5: [
@@ -39449,13 +39449,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -39464,13 +39464,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -39488,13 +39488,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -39503,13 +39503,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -39548,7 +39548,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -39563,13 +39563,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -39599,7 +39599,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -39665,7 +39665,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -39701,7 +39701,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -39812,7 +39812,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   30: [
@@ -39821,7 +39821,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   31: [
@@ -39830,7 +39830,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   32: [
@@ -39857,7 +39857,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 20s,
+      value: 20,
     },
   ],
 },
@@ -39892,7 +39892,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -39985,7 +39985,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -40027,7 +40027,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -40036,7 +40036,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -40108,7 +40108,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.WardGain,
       modifierType: ModifierType.TODO,
@@ -40147,7 +40147,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -40204,19 +40204,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -40254,7 +40254,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -40275,7 +40275,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -40302,7 +40302,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 0.2,
+      value: 0.200000002980232,
     },
   ],
   5: [
@@ -40326,7 +40326,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -40362,7 +40362,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -40383,7 +40383,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -40392,7 +40392,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -40431,7 +40431,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -40443,7 +40443,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -40452,7 +40452,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -40500,7 +40500,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaGain,
       modifierType: ModifierType.TODO,
@@ -40563,19 +40563,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -40584,7 +40584,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -40608,19 +40608,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -40629,7 +40629,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -40667,7 +40667,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   3: [
@@ -40685,19 +40685,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -40712,19 +40712,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -40745,7 +40745,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -40754,7 +40754,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -40784,13 +40784,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -40799,7 +40799,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -40814,13 +40814,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -40829,7 +40829,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -40853,7 +40853,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -40868,7 +40868,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -40895,7 +40895,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   18: [
@@ -40925,13 +40925,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -40958,7 +40958,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -41003,7 +41003,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -41012,7 +41012,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -41024,7 +41024,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -41051,7 +41051,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -41086,7 +41086,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.DamageTaken,
       modifierType: ModifierType.TODO,
@@ -41107,7 +41107,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   5: [
@@ -41116,7 +41116,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -41125,7 +41125,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -41254,19 +41254,19 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   16: [
@@ -41293,13 +41293,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -41320,7 +41320,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -41365,7 +41365,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -41392,7 +41392,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -41404,7 +41404,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -41467,7 +41467,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -41544,7 +41544,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   4: [
@@ -41568,13 +41568,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -41583,13 +41583,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -41790,7 +41790,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -41805,7 +41805,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -41820,7 +41820,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -41835,7 +41835,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -41865,13 +41865,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -41948,13 +41948,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -41993,7 +41993,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -42053,13 +42053,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -42179,7 +42179,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -42326,7 +42326,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.HealthGain,
       modifierType: ModifierType.TODO,
@@ -42341,7 +42341,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -42367,13 +42367,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.CurrentHealthDrain,
       modifierType: ModifierType.TODO,
@@ -42388,7 +42388,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 0.002,
+      value: 0.00200000002980232,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -42463,7 +42463,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -42595,7 +42595,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -42625,7 +42625,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -42661,7 +42661,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -42786,7 +42786,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -42942,7 +42942,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -43008,7 +43008,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -43065,7 +43065,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -43074,7 +43074,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -43089,13 +43089,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -43104,13 +43104,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -43125,7 +43125,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -43155,13 +43155,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -43170,13 +43170,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -43197,7 +43197,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   29: [
@@ -43230,7 +43230,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -43245,7 +43245,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -43271,7 +43271,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -43295,7 +43295,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -43358,7 +43358,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -43412,7 +43412,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -43472,7 +43472,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -43502,7 +43502,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -43511,7 +43511,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -43535,7 +43535,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.CriticalChance,
       modifierType: ModifierType.TODO,
@@ -43559,7 +43559,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -43574,13 +43574,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -43610,13 +43610,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   29: [
@@ -43649,13 +43649,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -43753,7 +43753,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -43762,7 +43762,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -43771,7 +43771,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -43786,7 +43786,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   13: [
@@ -43861,7 +43861,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   20: [
@@ -43894,13 +43894,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   23: [
@@ -43933,7 +43933,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   26: [
@@ -44008,7 +44008,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -44064,7 +44064,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   6: [
@@ -44073,7 +44073,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -44103,7 +44103,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 34#,
+      value: 34,
     },
   ],
   9: [
@@ -44112,7 +44112,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -44136,7 +44136,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   12: [
@@ -44160,7 +44160,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -44217,7 +44217,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -44277,13 +44277,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 0.1,
+      value: 0.100000001490116,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 0.1,
+      value: 0.100000001490116,
     },
   ],
   23: [
@@ -44292,7 +44292,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -44310,7 +44310,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -44349,7 +44349,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   30: [
@@ -44358,7 +44358,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   31: [
@@ -44385,7 +44385,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
 },
@@ -44486,7 +44486,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -44549,7 +44549,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -44618,7 +44618,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   21: [
@@ -44627,7 +44627,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   22: [
@@ -44645,13 +44645,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -44714,7 +44714,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   29: [
@@ -44764,7 +44764,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -44776,7 +44776,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -44797,7 +44797,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -44812,7 +44812,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -44836,13 +44836,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   8: [
@@ -44866,7 +44866,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -44887,13 +44887,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   11: [
@@ -44917,7 +44917,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -44953,7 +44953,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -44995,7 +44995,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: 0.3,
+      value: 0.300000011920929,
     },
   ],
   17: [
@@ -45112,25 +45112,25 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   27: [
@@ -45139,7 +45139,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.IncreasedStunChance,
       modifierType: ModifierType.TODO,
@@ -45151,7 +45151,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -45205,7 +45205,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -45226,7 +45226,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -45241,7 +45241,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -45288,7 +45288,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   5: [
@@ -45306,13 +45306,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   7: [
@@ -45345,7 +45345,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -45360,13 +45360,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -45405,13 +45405,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -45420,7 +45420,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   15: [
@@ -45429,7 +45429,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -45444,7 +45444,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -45474,7 +45474,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   19: [
@@ -45501,7 +45501,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -45525,7 +45525,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   24: [
@@ -45534,7 +45534,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -45594,7 +45594,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -45719,7 +45719,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
@@ -45776,7 +45776,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   16: [
@@ -45899,13 +45899,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   25: [
@@ -45923,13 +45923,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -45985,7 +45985,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   2: [
@@ -46003,7 +46003,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -46024,7 +46024,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Damage,
       modifierType: ModifierType.TODO,
@@ -46078,7 +46078,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   9: [
@@ -46093,7 +46093,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   10: [
@@ -46141,7 +46141,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   14: [
@@ -46150,7 +46150,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.IncreasedHealing,
       modifierType: ModifierType.TODO,
@@ -46174,7 +46174,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.None,
       modifierType: ModifierType.TODO,
@@ -46258,13 +46258,13 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.TODO,
       modifierType: ModifierType.TODO,
@@ -46297,7 +46297,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },
   ],
   28: [
@@ -46333,7 +46333,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.Health,
       modifierType: ModifierType.TODO,
@@ -46354,7 +46354,7 @@ const trees: Trees = {
       modifierType: ModifierType.TODO,
       specialTags: 0,
       tags: TAGS.NONE,
-      value: ,
+      value: 0,
     },    {
       property: Property.ManaCost,
       modifierType: ModifierType.TODO,
