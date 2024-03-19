@@ -1,0 +1,2 @@
+- name: TypeScript report
+  uses: fersilva16/ts-report-action@1.2.1
