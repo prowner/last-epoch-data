@@ -1,4 +1,4 @@
-# last-epoch-data
+# [ArreatSummit.gg] last-epoch-data
 
 This project is a community effort to streamline skill and passive tree node data so it can be used in DPS calculation.
 
